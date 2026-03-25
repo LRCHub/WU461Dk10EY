@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Special Thanks",
+  "base_artist": "スリーズブーケ",
+  "createdAt": "2026-03-25T02:13:43.072677Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Living Good (Special Thanks to)",
+      "artist": "KARD",
+      "has_synced": true,
+      "path": "select/01_Living_Good_(Special_Thanks_to)_KARD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Living Good (Special Thanks To.)",
+      "artist": "KARD",
+      "has_synced": true,
+      "path": "select/02_Living_Good_(Special_Thanks_To.)_KARD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Special Thanks",
+      "artist": "Rupert Holmes",
+      "has_synced": true,
+      "path": "select/03_Special_Thanks_Rupert_Holmes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Special Thanks",
+      "artist": "Naive New Beaters",
+      "has_synced": false,
+      "path": "select/04_Special_Thanks_Naive_New_Beaters.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Special Thanks",
+      "artist": "BabyTron",
+      "has_synced": false,
+      "path": "select/05_Special_Thanks_BabyTron.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SPECIAL THANKS",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/06_SPECIAL_THANKS_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SPECIAL THANKS",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/07_SPECIAL_THANKS_GLAY.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Special Thanks",
+      "artist": "Cerise Bouquet",
+      "has_synced": true,
+      "path": "select/08_Special_Thanks_Cerise_Bouquet.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Living Good (Special thanks to.)",
+      "artist": "KARD",
+      "has_synced": true,
+      "path": "select/09_Living_Good_(Special_thanks_to.)_KARD.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My special thanks",
+      "artist": "Le Couple",
+      "has_synced": false,
+      "path": "select/10_My_special_thanks_Le_Couple.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A special thanks from mousey",
+      "artist": "Ironmouse",
+      "has_synced": true,
+      "path": "select/11_A_special_thanks_from_mousey_Ironmouse.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Living Good (Special thanks to.)",
+      "artist": "카드 (KARD)",
+      "has_synced": true,
+      "path": "select/12_Living_Good_(Special_thanks_to.)_카드_(KARD).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Special Thanks",
+      "artist": "林 桃子",
+      "has_synced": false,
+      "path": "select/13_Special_Thanks_林_桃子.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Special Thanks To 1",
+      "artist": "陳奕迅",
+      "has_synced": true,
+      "path": "select/14_Special_Thanks_To_1_陳奕迅.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Special Thanks To 1",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/15_Special_Thanks_To_1_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Special Thanks - 君へ",
+      "artist": "桂ヒナギク (伊藤静)",
+      "has_synced": false,
+      "path": "select/16_Special_Thanks_-_君へ_桂ヒナギク_(伊藤静).txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Special Thanks",
+      "artist": "Sơn Tùng M-TP",
+      "has_synced": true,
+      "path": "select/17_Special_Thanks_Sơn_Tùng_M-TP.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Special Thanks To 1",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/18_Special_Thanks_To_1_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Living Good (Special thanks to.) (LIVING GOOD (SPECIAL THANKS TO.))",
+      "artist": "KARD",
+      "has_synced": true,
+      "path": "select/19_Living_Good_(Special_thanks_to.)_(LIVING_GOOD_(SPECIAL_THANKS_TO.))_KARD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Special Thanks",
+      "artist": "スリーズブーケ",
+      "has_synced": false,
+      "path": "select/pl_01_Special_Thanks_スリーズブーケ.txt"
+    }
+  ]
+}
